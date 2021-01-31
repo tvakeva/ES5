@@ -4,14 +4,15 @@ import "./Global/strict.js";
 //import "./Array/isArray.js";
 //import "./Array/forEach.js";
 //import "./Array/map.js";
-import "./Array/reduce.js";
+//import "./Array/reduce.js";
 //import "./Array/reduceRight.js";
+//import "./Array/filter.js";
 //import "./Array/every.js";
 //import "./Array/some.js";
 //import "./Array/indexOf.js";
 //import "./Array/lastIndexOf.js";
 
-// JSON
+// JSON, JavaScript Object Notation
 //import "./JSON/stringify.js";
 //import "./JSON/parse.js";
 

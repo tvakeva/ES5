@@ -49,4 +49,4 @@ const classifiedPlanets = advancedPlanets.reduce(
   },
   { habited: [], unHabited: [] }
 );
-console.log();
+console.log(classifiedPlanets);
